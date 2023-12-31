@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.sqlite3
+*.pyc
+.DS_Store
+media/
+staticfiles/
+*.env
+.venv_restful_api/
+venv_restful_api/
+*.venv_restful_api/
+.venv_restful_api
+venv_restful_api
+*.venv_restful_api
+.idea/
